@@ -1,0 +1,39 @@
+body{
+text-align: center;
+}
+.menu1{
+float: left;
+list-style: none;
+margin-top: 0px;
+position: fixed;
+background:lightblue;
+width:100%;
+z-index:10;
+top:0px;
+}
+.links{
+display: inline;
+padding-right :35px;
+padding-left:35px;
+color: lightblue;
+}
+
+#mycarousel{
+background-color:aqua;
+}
+.carousel-inner{
+color: white;
+}
+.carousel-inner img{
+width: 150px;
+}
+#mycarousel img{
+height:350px;
+}
+#img{
+width:200px;
+height: 200px;
+}
+#mainimage{
+width:80%;
+}
